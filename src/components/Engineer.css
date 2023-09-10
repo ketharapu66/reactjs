@@ -1,0 +1,26 @@
+/* engineer.css */
+.center {
+    text-align: center;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .input-field {
+    margin-bottom: 10px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+    padding: 8px;
+  }
+  
+  /* Add more CSS rules as needed */
+  
